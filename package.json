@@ -1,7 +1,7 @@
 {
   "name": "odin-basic-informational-site",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
     "url": "https://github.com/weirdwolfx/odin-basic-informational-site/issues"
   },
   "homepage": "https://github.com/weirdwolfx/odin-basic-informational-site#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
